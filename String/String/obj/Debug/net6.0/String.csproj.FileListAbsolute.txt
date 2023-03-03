@@ -1,0 +1,15 @@
+D:\Atharv_Yadav\String\String\bin\Debug\net6.0\String.exe
+D:\Atharv_Yadav\String\String\bin\Debug\net6.0\String.deps.json
+D:\Atharv_Yadav\String\String\bin\Debug\net6.0\String.runtimeconfig.json
+D:\Atharv_Yadav\String\String\bin\Debug\net6.0\String.dll
+D:\Atharv_Yadav\String\String\bin\Debug\net6.0\String.pdb
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\String.dll
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\refint\String.dll
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\String.pdb
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+D:\Atharv_Yadav\String\String\obj\Debug\net6.0\ref\String.dll

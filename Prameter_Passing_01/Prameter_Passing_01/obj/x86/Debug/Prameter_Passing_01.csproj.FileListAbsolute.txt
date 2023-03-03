@@ -1,0 +1,4 @@
+D:\C#Experiments\Prameter_Passing_01\Prameter_Passing_01\bin\Debug\Prameter_Passing_01.exe
+D:\C#Experiments\Prameter_Passing_01\Prameter_Passing_01\bin\Debug\Prameter_Passing_01.pdb
+D:\C#Experiments\Prameter_Passing_01\Prameter_Passing_01\obj\x86\Debug\Prameter_Passing_01.exe
+D:\C#Experiments\Prameter_Passing_01\Prameter_Passing_01\obj\x86\Debug\Prameter_Passing_01.pdb

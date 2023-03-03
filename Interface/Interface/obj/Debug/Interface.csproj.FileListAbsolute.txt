@@ -1,0 +1,8 @@
+D:\Atharv_Yadav\Interface\Interface\bin\Debug\Interface.exe.config
+D:\Atharv_Yadav\Interface\Interface\bin\Debug\Interface.exe
+D:\Atharv_Yadav\Interface\Interface\bin\Debug\Interface.pdb
+D:\Atharv_Yadav\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\Atharv_Yadav\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\Atharv_Yadav\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Atharv_Yadav\Interface\Interface\obj\Debug\Interface.exe
+D:\Atharv_Yadav\Interface\Interface\obj\Debug\Interface.pdb

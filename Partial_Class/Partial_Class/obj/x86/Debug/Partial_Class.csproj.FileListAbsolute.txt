@@ -1,0 +1,4 @@
+D:\Atharv_Yadav\Partial_Class\Partial_Class\bin\Debug\Partial_Class.exe
+D:\Atharv_Yadav\Partial_Class\Partial_Class\bin\Debug\Partial_Class.pdb
+D:\Atharv_Yadav\Partial_Class\Partial_Class\obj\x86\Debug\Partial_Class.exe
+D:\Atharv_Yadav\Partial_Class\Partial_Class\obj\x86\Debug\Partial_Class.pdb

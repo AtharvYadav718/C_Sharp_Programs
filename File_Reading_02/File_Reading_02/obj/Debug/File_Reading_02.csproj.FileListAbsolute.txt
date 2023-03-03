@@ -1,0 +1,8 @@
+D:\Atharv_Yadav\File_Reading_02\File_Reading_02\bin\Debug\File_Reading_02.exe.config
+D:\Atharv_Yadav\File_Reading_02\File_Reading_02\bin\Debug\File_Reading_02.exe
+D:\Atharv_Yadav\File_Reading_02\File_Reading_02\bin\Debug\File_Reading_02.pdb
+D:\Atharv_Yadav\File_Reading_02\File_Reading_02\obj\Debug\File_Reading_02.csproj.AssemblyReference.cache
+D:\Atharv_Yadav\File_Reading_02\File_Reading_02\obj\Debug\File_Reading_02.csproj.SuggestedBindingRedirects.cache
+D:\Atharv_Yadav\File_Reading_02\File_Reading_02\obj\Debug\File_Reading_02.csproj.CoreCompileInputs.cache
+D:\Atharv_Yadav\File_Reading_02\File_Reading_02\obj\Debug\File_Reading_02.exe
+D:\Atharv_Yadav\File_Reading_02\File_Reading_02\obj\Debug\File_Reading_02.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameter_Passing_02", "Parameter_Passing_02\Parameter_Passing_02.csproj", "{E23EBFA3-E300-4E2F-A9A5-90754B4367FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23EBFA3-E300-4E2F-A9A5-90754B4367FB}.Debug|x86.ActiveCfg = Debug|x86
+		{E23EBFA3-E300-4E2F-A9A5-90754B4367FB}.Debug|x86.Build.0 = Debug|x86
+		{E23EBFA3-E300-4E2F-A9A5-90754B4367FB}.Release|x86.ActiveCfg = Release|x86
+		{E23EBFA3-E300-4E2F-A9A5-90754B4367FB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

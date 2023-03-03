@@ -1,0 +1,8 @@
+D:\Atharv_Yadav\File_Exception\File_Exception\bin\Debug\File_Exception.exe.config
+D:\Atharv_Yadav\File_Exception\File_Exception\bin\Debug\File_Exception.exe
+D:\Atharv_Yadav\File_Exception\File_Exception\bin\Debug\File_Exception.pdb
+D:\Atharv_Yadav\File_Exception\File_Exception\obj\Debug\File_Exception.csproj.AssemblyReference.cache
+D:\Atharv_Yadav\File_Exception\File_Exception\obj\Debug\File_Exception.csproj.SuggestedBindingRedirects.cache
+D:\Atharv_Yadav\File_Exception\File_Exception\obj\Debug\File_Exception.csproj.CoreCompileInputs.cache
+D:\Atharv_Yadav\File_Exception\File_Exception\obj\Debug\File_Exception.exe
+D:\Atharv_Yadav\File_Exception\File_Exception\obj\Debug\File_Exception.pdb

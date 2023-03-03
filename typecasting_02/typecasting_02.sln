@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "typecasting_02", "typecasting_02\typecasting_02.csproj", "{B4767894-CCB1-4A88-8175-E5A4A6EB90BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4767894-CCB1-4A88-8175-E5A4A6EB90BF}.Debug|x86.ActiveCfg = Debug|x86
+		{B4767894-CCB1-4A88-8175-E5A4A6EB90BF}.Debug|x86.Build.0 = Debug|x86
+		{B4767894-CCB1-4A88-8175-E5A4A6EB90BF}.Release|x86.ActiveCfg = Release|x86
+		{B4767894-CCB1-4A88-8175-E5A4A6EB90BF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
